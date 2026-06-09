@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Views Booster",
+  "description": "Logiciel d'augmentation de vues YouTube avec validation par code de paiement unique et simulation de visionnage multi-proxy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
